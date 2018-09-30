@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="3" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2297" started-at="2018-09-30T17:31:52Z" finished-at="2018-09-30T17:31:54Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2297" started-at="2018-09-30T17:31:52Z" finished-at="2018-09-30T17:31:54Z">
+      <class name="post_api.GetPostRequest">
+        <test-method status="PASS" signature="postDataVerify()[pri:0, instance:post_api.GetPostRequest@5f341870]" name="postDataVerify" duration-ms="2204" started-at="2018-09-30T12:31:52Z" finished-at="2018-09-30T12:31:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postDataVerify -->
+      </class> <!-- post_api.GetPostRequest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

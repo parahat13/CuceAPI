@@ -74,11 +74,11 @@ public class GITAPISTEPS {
 	}
 
 	
-	@When("I navigate to the following link {string}")
-	public void i_navigate_to_the_following_link(String url2) {
-	   
-		Driver.getDriver().get(url2);
-	}
+//	@When("I navigate to the following link {string}")
+//	public void i_navigate_to_the_following_link(String url2) {
+//	   
+//		Driver.getDriver().get(url2);
+//	}
 
 	@When("I make a GET request with following link {string}")
 	public void i_make_a_GET_request_with_following_link(String urlAPI) {
